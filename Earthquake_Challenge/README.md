@@ -8,10 +8,10 @@ In this module, you will use the Leaflet.js Application Programming Interface (A
 In this challenge, you’ll add a third map style as an additional tile layer. You'll also add tectonic plate GeoJSON data to the map to illustrate the relationship between the location and frequency of seismic activity and tectonic plates.
 
 The goals for this challenge are to:
-1.Use d3.json() to get tectonic plate data and add the data using the L.geoJSON() layer.
-2.Style the tectonic plate LineString data to stand out on the map.
-3.Add the tectonic plate data as an overlay with the earthquake data.
-4.Add a third map style to allow the user to select from three different maps.
+1. Use d3.json() to get tectonic plate data and add the data using the L.geoJSON() layer.
+2. Style the tectonic plate LineString data to stand out on the map.
+3. Add the tectonic plate data as an overlay with the earthquake data.
+4. Add a third map style to allow the user to select from three different maps.
 
 ## Resources
 
@@ -25,4 +25,5 @@ The goals for this challenge are to:
 ## App Preview
 
 Here is a preview of what the web app looks like once all the new map features have been created and enabled:
+
 ![alt text](https://github.com/jbtrahin/Mapping_Earthquakes/blob/Earthquake_Challenge/Earthquake_Challenge/leaflet_app_preview.png)
